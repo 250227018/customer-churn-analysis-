@@ -108,4 +108,8 @@ This project is created for learning, academic, and portfolio purposes in the fi
 
 Optimize this README for recruiters
 
-Just tell me 😊
+## 📄 Project Reports
+
+- [📘 Complete EDA Report (PDF)](Complete_EDA_Churn_Report.pdf)
+- [📄 Executive Summary (PDF)](Customer_Churn_Executive_Summary.pdf)
+
